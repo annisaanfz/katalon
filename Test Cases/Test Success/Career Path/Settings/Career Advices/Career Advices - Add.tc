@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Career Advices - Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ed2d367b-86ad-4b91-bdc5-2dd1f59c0105</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data Success/Career Path/Settings/Career Advices/Career Advices Add')</defaultValue>
+      <description></description>
+      <id>611f0b35-a72f-47c0-8885-67326ee799eb</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

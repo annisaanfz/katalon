@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Competency Category Edit - Add Assign To - Employee</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f92f6e89-2a08-4df7-9cbc-5ec2dde365f8</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Competency/Competency Category - Edit')</defaultValue>
+      <description></description>
+      <id>db53ed2c-262e-4230-add5-724f0aaf4ddc</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

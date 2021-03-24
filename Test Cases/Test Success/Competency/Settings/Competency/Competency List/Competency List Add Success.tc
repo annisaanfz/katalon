@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Competency List Add Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d529051b-ab6a-449f-8a71-2a0f4aeef796</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Competency/Competency List - Add Success')</defaultValue>
+      <description></description>
+      <id>a4a10a09-304d-4767-8d4f-d376bebf4c38</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

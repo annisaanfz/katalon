@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Match Color - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>122f1191-6f58-4b2e-99f7-2e59352b96a3</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data Success/Career Path/Settings/Match Color/Match Color Search')</defaultValue>
+      <description></description>
+      <id>0ba7b8d8-05cd-4757-b682-c09a100bc353</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

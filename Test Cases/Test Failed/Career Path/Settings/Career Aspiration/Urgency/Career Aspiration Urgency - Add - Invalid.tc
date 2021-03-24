@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Career Aspiration Urgency - Add - Invalid</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38ee246e-92c0-471d-88a6-5d2b6c781698</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Career Path/Settings/Career Aspiration/Urgency/Career Aspiration Urgency Add')</defaultValue>
+      <description></description>
+      <id>e2921f9d-5513-4087-b167-18073140e530</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

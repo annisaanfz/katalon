@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Career Aspiration Urgency - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c60f12b4-67b1-4911-8d25-91e3d279bedb</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data Success/Career Path/Settings/Career Aspiration/Urgency/Career Aspiration Urgency Search')</defaultValue>
+      <description></description>
+      <id>780e0cd5-d0bf-4d98-8d7e-d3b03eeeeb5a</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

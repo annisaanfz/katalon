@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Career Advices - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c74ffa4-dfac-4f27-9a67-99ec7ff5bc1a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data Success/Career Path/Settings/Career Advices/Career Advices Search')</defaultValue>
+      <description></description>
+      <id>f734c026-3b47-4814-9cc9-27f92bc6411d</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

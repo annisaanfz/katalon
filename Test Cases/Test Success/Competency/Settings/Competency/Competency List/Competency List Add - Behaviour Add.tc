@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Competency List Add - Behaviour Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4d7a5bb1-0486-4465-9c45-5cdcdc54788c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Competency/Competency List - Behaviour')</defaultValue>
+      <description></description>
+      <id>7846b3aa-fed4-4e17-87b0-db21cf65dc62</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

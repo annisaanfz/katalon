@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Career Aspiration Reason - Search</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a0a1727d-db69-40a7-b4a4-8fef5aa7416c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data Success/Career Path/Settings/Career Aspiration/Reason/Career Aspiration Reason Search')</defaultValue>
+      <description></description>
+      <id>d5a1914f-acdd-4aea-ae87-93f75113cf7b</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>
