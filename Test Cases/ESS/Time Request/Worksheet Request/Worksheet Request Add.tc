@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Worksheet Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c6e126e0-3a28-4a97-81a3-a20941854f42</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Worksheet Request/Worksheet Request Add')</defaultValue>
+      <description></description>
+      <id>69c15c46-9852-4f3c-b60b-6628d57b20fc</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

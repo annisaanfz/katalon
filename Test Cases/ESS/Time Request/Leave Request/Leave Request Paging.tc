@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Request Paging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c028f29b-d70c-4f7c-bbc5-b4b8be48fa20</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Leave Request Paging')</defaultValue>
+      <description></description>
+      <id>997ead52-7c7a-417b-b36b-9e0d6f0f0026</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

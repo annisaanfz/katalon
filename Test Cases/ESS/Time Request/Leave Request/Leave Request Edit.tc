@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Request Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>abb371da-e6b4-488d-bf07-e4508a35939b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Leave Request Edit')</defaultValue>
+      <description></description>
+      <id>e701c0cd-1418-4d05-860f-d4039ecf011a</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

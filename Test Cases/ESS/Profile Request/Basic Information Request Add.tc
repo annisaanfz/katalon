@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Basic Information Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0973cba3-2711-4239-9d3e-725ac9e4669a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Basic Information Request Add')</defaultValue>
+      <description></description>
+      <id>08c1cf54-24ee-44ce-a728-ad7c80077a59</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

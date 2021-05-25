@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Schedule Exception Request Paging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a6ba915-56ee-40fb-8455-7f2e61f98002</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Schedule Exception Request/Schedule Exception Request Paging')</defaultValue>
+      <description></description>
+      <id>e3d37c25-ecad-48c2-a223-e05cdad27de4</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

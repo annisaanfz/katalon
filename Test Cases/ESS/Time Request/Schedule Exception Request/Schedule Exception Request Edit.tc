@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Schedule Exception Request Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4faefd20-bd1e-4c3e-bab4-acb67ffe53f5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Schedule Exception Request/Schedule Exception Request Edit')</defaultValue>
+      <description></description>
+      <id>f1caa4c1-c568-43ed-8cca-0f6c401318c1</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

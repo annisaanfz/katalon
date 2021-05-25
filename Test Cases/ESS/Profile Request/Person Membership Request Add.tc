@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Person Membership Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab0da402-1e21-4832-948f-edad223ab30d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Person Membership Request Add')</defaultValue>
+      <description></description>
+      <id>a90294f9-5977-41df-ac7b-ea99c46038c4</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Person Document Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd4c9b84-2d21-480c-a128-e083af5f9f47</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Person Document Request Add')</defaultValue>
+      <description></description>
+      <id>a1388c59-2105-4a4d-bf32-ea76100924dd</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

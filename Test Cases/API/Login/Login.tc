@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62f82010-64e1-40de-a832-cf334d92aab5</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Login/Login')</defaultValue>
+      <description></description>
+      <id>faabf6bf-c539-4b64-bb1c-f33c77d58e05</id>
+      <masked>false</masked>
+      <name>dataLogin</name>
+   </variable>
+</TestCaseEntity>

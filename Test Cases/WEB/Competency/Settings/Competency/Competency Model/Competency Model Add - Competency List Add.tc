@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Competency Model Add - Competency List Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>681dcb9c-dc34-4f94-9cf7-6350640f66c7</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Competency/Competency Model - Add CL')</defaultValue>
+      <description></description>
+      <id>56c0216b-b833-460e-9a02-ee8084ae2172</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

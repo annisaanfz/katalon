@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobTitleBySearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5f4a4c0-7d4c-4310-a5cf-63865b929bd9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Competency/Job Title/JobTitleSearch')</defaultValue>
+      <description></description>
+      <id>d78b76fd-9191-462e-97ed-b873e7dc3764</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

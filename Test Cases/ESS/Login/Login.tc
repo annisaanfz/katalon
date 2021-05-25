@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>512a8e09-4069-4908-9119-4e0c281e4cab</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Login/ESS Login')</defaultValue>
+      <description></description>
+      <id>0c8dde8f-8598-4c21-bc9f-febf32346bf9</id>
+      <masked>false</masked>
+      <name>dataLogin</name>
+   </variable>
+</TestCaseEntity>

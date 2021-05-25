@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Person Emergency Contact Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9fecbe85-641c-48a1-9529-871ab5b5b0ad</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Person Emergency Contact Request Add')</defaultValue>
+      <description></description>
+      <id>4c2bbdd7-fb07-427c-8502-c3a508856c0b</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

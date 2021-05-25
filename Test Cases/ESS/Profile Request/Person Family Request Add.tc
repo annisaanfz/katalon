@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Person Family Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6529c170-13fd-48ea-a537-0c1b1896a75c</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Person Family Request Add')</defaultValue>
+      <description></description>
+      <id>6b0b90c4-a284-4baa-9a29-bfcb5c962885</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

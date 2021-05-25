@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>JobRoleBySearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>89d126f8-556f-4030-9153-45c105209409</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Competency/Job Role/JobRoleSearch')</defaultValue>
+      <description></description>
+      <id>6b96983e-99df-4fdb-8c97-182a6a937aff</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

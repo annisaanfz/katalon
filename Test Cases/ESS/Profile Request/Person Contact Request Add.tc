@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Person Contact Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7b7f75e5-ef14-45a1-b1e9-8e9b5d19ddc9</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Person Contact Request Add')</defaultValue>
+      <description></description>
+      <id>01046d00-e6b5-4963-a2d3-e05428dc3e8d</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

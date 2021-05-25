@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Overtime Request Add Without File</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db449109-4e1e-4482-bfc9-a94ce9a29983</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Overtime Request/Overtime Request Add Without File')</defaultValue>
+      <description></description>
+      <id>e2c948d1-5ac6-4118-8128-8ad8a97ca151</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

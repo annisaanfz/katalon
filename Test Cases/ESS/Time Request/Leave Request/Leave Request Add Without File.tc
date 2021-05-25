@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Request Add Without File</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b55fe46b-c936-4eb4-ac0a-0a8bc9be652e</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Leave Request Add Without File')</defaultValue>
+      <description></description>
+      <id>d9230530-ecff-43a7-8d04-42ae672853f5</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

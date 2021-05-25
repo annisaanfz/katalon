@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave List By Employee Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4770435e-ae48-40fa-bc27-da16e63656f2</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Leave List By Employee Id')</defaultValue>
+      <description></description>
+      <id>5f7c0218-1cb1-4701-9a98-e668c4254546</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

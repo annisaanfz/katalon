@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Attendance Request Paging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7cde4e35-2241-4d3c-874c-225341e80fb0</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Attendance Request/Attendance Request Paging')</defaultValue>
+      <description></description>
+      <id>6ffc6ad9-25ce-4a52-bbf5-4899940e67ff</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

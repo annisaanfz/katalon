@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Schedule Exception Request Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5529340-2875-493c-84cc-172982b22bee</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData(null)</defaultValue>
+      <description></description>
+      <id>151bb730-6ea8-4452-b6a7-2a345f4e98bd</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

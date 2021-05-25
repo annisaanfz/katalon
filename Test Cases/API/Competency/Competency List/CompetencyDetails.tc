@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompetencyDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dc3171ff-37ba-4648-ac29-14bdc5781170</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Competency/Competency List/CompetencyPageLimitInquiry')</defaultValue>
+      <description></description>
+      <id>f7aa3144-d361-4b8c-90a7-240b5eeec5bb</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Competency Model Edit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>db08f81f-803d-47dd-b527-94b79dc470cc</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data/Competency/Competency Model - Edit')</defaultValue>
+      <description></description>
+      <id>c5e23a68-de92-42b8-a355-fdbafb1cbb51</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Overtime Request Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a59cab5e-9f11-47c0-b5c5-67b6435bf910</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Overtime Request/Overtime Request Cancel')</defaultValue>
+      <description></description>
+      <id>aaf5ed74-5df8-4829-a278-42c6c508fc34</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Request Add</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb57217a-da2e-4a73-9cce-6e94ef61145b</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Leave Request Add')</defaultValue>
+      <description></description>
+      <id>bb40e5e2-0494-4817-940e-2b9071d93a82</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

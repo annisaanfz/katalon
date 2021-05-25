@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Permit Request By Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c5109fa-ba2f-4b95-8251-fe0c5d71d659</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Permit Request/Permit Request By Id')</defaultValue>
+      <description></description>
+      <id>8ca75f5d-49ed-4ef9-b88b-4087f0766aba</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

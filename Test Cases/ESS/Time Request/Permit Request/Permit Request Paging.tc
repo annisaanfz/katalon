@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Permit Request Paging</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adaf5b73-f4e8-4254-8080-0728d1df330a</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Time Request/Permit Request/Permit Request Paging')</defaultValue>
+      <description></description>
+      <id>bd5c5fad-b524-475d-a1d2-81310c540cad</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

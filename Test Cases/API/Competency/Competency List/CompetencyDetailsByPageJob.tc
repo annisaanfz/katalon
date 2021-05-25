@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompetencyDetailsByPageJob</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e50f8746-e311-4e58-a067-51ac79d24179</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Competency/Competency List/CompetencyDetailsByPageJob')</defaultValue>
+      <description></description>
+      <id>4c4dffd3-dcb7-4e48-8ae8-5b67472d80fb</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Leave Request Document</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>adbefcf5-230a-4552-8be5-7b928171de4d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Document/Leave Request Document')</defaultValue>
+      <description></description>
+      <id>59d61e37-b4b7-47dd-be6a-c98b6f16b651</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

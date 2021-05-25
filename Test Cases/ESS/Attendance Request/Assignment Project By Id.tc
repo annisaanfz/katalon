@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Assignment Project By Id</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b153a57b-349f-4c5e-be7d-6f9d38887212</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Attendance Request/Assignment Project By Id')</defaultValue>
+      <description></description>
+      <id>a945ec85-a09c-46f2-a40b-b1527c254c0d</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

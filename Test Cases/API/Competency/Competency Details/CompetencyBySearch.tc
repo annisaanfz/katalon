@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CompetencyBySearch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>062004c3-b7c1-47dd-bd96-8c591f413ecc</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('Data API/Competency/Competency Details/CompetencyBySearch')</defaultValue>
+      <description></description>
+      <id>7f7b04a7-7fd2-44e6-aa37-b4cbb57ccbdb</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>

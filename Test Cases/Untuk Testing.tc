@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Untuk Testing</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0b737ed5-881f-4957-8a6b-3053a0775110</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('ESS/Profile Request/Basic Info Req Add')</defaultValue>
+      <description></description>
+      <id>c6ef43b6-5723-40f6-8646-11155e1f9425</id>
+      <masked>false</masked>
+      <name>data</name>
+   </variable>
+</TestCaseEntity>
